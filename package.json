@@ -1,0 +1,27 @@
+{
+  "name": "curso-cypress-intermediario",
+  "version": "1.0.0",
+  "description": "curso-cypress-intermediario",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/wlsf82/curso-cypress-intermediario.git"
+  },
+  "author": "Lucas Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/wlsf82/curso-cypress-intermediario/issues"
+  },
+  "homepage": "https://gitlab.com/wlsf82/curso-cypress-intermediario#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "faker": "^5.5.3"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001294"
+  }
+}
