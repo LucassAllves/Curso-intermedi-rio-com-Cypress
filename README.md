@@ -1,4 +1,4 @@
-# curso-cypress-intermediario
+# curso-cypress-intermediário
 
 
 # *Este curso foi bem bacana para que eu pudesse compreender algumas formas de se otimizar principalmente tempo com cypress utilizando recursos via api, pena que nem todas squads de desenvolvimento disponibilizam  apis bem documentadas dificultando nosso trabalho, porém valeu muito apena o curso. Terminei com gostinho de quero +.*
